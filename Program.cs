@@ -10,8 +10,8 @@ namespace cd_c_puzzles
         {
             //RandomArray();
             //TossCoin();
-            //TossMultipleCoins(10);
-            Names();
+            TossMultipleCoins(12);
+            //Names();
         }
 
         private static int[] RandomArray()
@@ -69,9 +69,8 @@ namespace cd_c_puzzles
                     tailscounter++;
                 }
             }
-            double TossRatio = (double)headscounter/num;
-            System.Console.WriteLine($"Heads occurs: {TossRatio}");
-            return TossRatio;
+            System.Console.WriteLine($"Heads occurs: {(double)headscounter/num}");
+            return (double)headscounter/num;
         }
 
         private static List<string> Names()
