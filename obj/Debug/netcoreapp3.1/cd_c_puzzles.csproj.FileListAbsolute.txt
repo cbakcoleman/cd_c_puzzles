@@ -1,0 +1,12 @@
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/bin/Debug/netcoreapp3.1/cd_c_puzzles.deps.json
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/bin/Debug/netcoreapp3.1/cd_c_puzzles.runtimeconfig.json
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/bin/Debug/netcoreapp3.1/cd_c_puzzles.runtimeconfig.dev.json
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/bin/Debug/netcoreapp3.1/cd_c_puzzles.dll
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/bin/Debug/netcoreapp3.1/cd_c_puzzles.pdb
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/obj/Debug/netcoreapp3.1/cd_c_puzzles.csprojAssemblyReference.cache
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/obj/Debug/netcoreapp3.1/cd_c_puzzles.AssemblyInfoInputs.cache
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/obj/Debug/netcoreapp3.1/cd_c_puzzles.AssemblyInfo.cs
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/obj/Debug/netcoreapp3.1/cd_c_puzzles.csproj.CoreCompileInputs.cache
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/obj/Debug/netcoreapp3.1/cd_c_puzzles.dll
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/obj/Debug/netcoreapp3.1/cd_c_puzzles.pdb
+/Users/cbakcoleman/Desktop/CD_C#/cd_c_puzzles/obj/Debug/netcoreapp3.1/cd_c_puzzles.genruntimeconfig.cache

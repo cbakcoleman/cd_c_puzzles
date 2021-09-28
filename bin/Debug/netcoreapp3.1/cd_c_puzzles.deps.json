@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cd_c_puzzles/1.0.0": {
+        "runtime": {
+          "cd_c_puzzles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cd_c_puzzles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
